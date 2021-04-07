@@ -1,0 +1,19 @@
+package com.codingdojo.zookeeper;
+
+public class Mammal {
+	private int energy;
+	public Mammal() {
+		this.setEnergy(100);
+	}
+	// getters and setters
+	public int getEnergy() {
+		return energy;
+	}
+	public void setEnergy(int energy) {
+		this.energy = energy;
+	}
+	//other methods
+	public String displayEnergy() {
+		return "Energy: " + this.energy;
+	}
+}

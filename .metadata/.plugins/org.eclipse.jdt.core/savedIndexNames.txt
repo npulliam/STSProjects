@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\natha\OneDrive\Dojo_Assignments\Java\STSProjects\.metadata\.plugins\org.eclipse.jdt.core
+2281279252.index
+3676228353.index
+422488386.index
+3294775327.index
