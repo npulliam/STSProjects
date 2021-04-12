@@ -2,6 +2,7 @@ package com.codingdojo.objectmaster;
 
 public class Wizard extends Human {
 	public Wizard() {
+		super();
 		super.setHealth(50);
 		super.setIntelligence(8);
 	}

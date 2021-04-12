@@ -1,7 +1,10 @@
 package com.codingdojo.objectmaster;
 
 public class Samurai extends Human {
+	public static int numOfSamurai = 0;
 	public Samurai() {
+		super();
+		numOfSamurai++;
 		super.setHealth(200);
 		
 	}
